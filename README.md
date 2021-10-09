@@ -76,3 +76,8 @@ ALPS is one of the prominent language that can be used to address the above issu
 - Translation
 - Advertising
 - CMS
+
+## Motivation
+[Motivational Video](https://www.infoq.com/presentations/web-api-alps/)
+
+
